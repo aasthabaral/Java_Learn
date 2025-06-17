@@ -1,6 +1,4 @@
-import javax.swing.*;
-import javax.swing.ImageIcon.*;
-import java.awt.*;
+
 public class CreateFrame {
     public static void main(String[] args) {
 
